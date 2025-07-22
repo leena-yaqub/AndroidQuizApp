@@ -17,6 +17,7 @@ Auto-skip to the next question if time runs out.
 Show a final score after the last question.
 
 Clean and responsive UI.
+<img width="277" height="555" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/b23abf6a-2283-4bd2-b94e-d4829470f44f" />
 
 <img width="306" height="566" alt="Screenshot 2025-07-22 210934" src="https://github.com/user-attachments/assets/fbe266f2-66fa-477c-80fc-ff805ed1e24d" />
 <img width="297" height="562" alt="Screenshot 2025-07-22 211006" src="https://github.com/user-attachments/assets/85eb043c-3d15-4cfa-99c5-d047872979eb" />
